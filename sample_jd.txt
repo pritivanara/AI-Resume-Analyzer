@@ -1,0 +1,2 @@
+We are looking for a Python Developer with knowledge of Machine Learning,
+Deep Learning, SQL, GitHub, Flask, NLP, and Data Analysis.
